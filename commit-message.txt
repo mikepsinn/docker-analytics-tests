@@ -1,1 +1,1 @@
-Laravel#feature/createAndCheckTestNotificationForDebugUser#047d89e58cb28691960323dae868af5d0ccdfa53
+Studies#feature/createAndCheckTestNotificationForDebugUser#047d89e58cb28691960323dae868af5d0ccdfa53
