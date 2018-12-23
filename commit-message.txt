@@ -1,1 +1,1 @@
-Laravel#feature/ConnectionsLatestMeasurementAt#f0ed961c611b75d237929ca0efacb4eb7dbe18e6
+Studies#feature/ConnectionsLatestMeasurementAt#f0ed961c611b75d237929ca0efacb4eb7dbe18e6
