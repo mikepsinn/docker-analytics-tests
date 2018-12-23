@@ -1,1 +1,1 @@
-Model#feature/stupidCategoryPairs#77df09f9f363adfd863d32484f74ccae26ceae8d
+Connectors#feature/stupidCategoryPairs#77df09f9f363adfd863d32484f74ccae26ceae8d
