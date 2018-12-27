@@ -1,1 +1,1 @@
-Studies#feature/composer-update#57c1220080146cf645c81611ed3a5c0294bd92ca
+Model#feature/post-model#d396fa5c0085559330b9250af43d531a121ad4ef
