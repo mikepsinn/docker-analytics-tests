@@ -1,1 +1,1 @@
-Laravel#feature/getWordPressStudyHtml#c21bde303d63ada69b634b8be2e71834802ee18c
+Studies#feature/getWordPressStudyHtml#c21bde303d63ada69b634b8be2e71834802ee18c
