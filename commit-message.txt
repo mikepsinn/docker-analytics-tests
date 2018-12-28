@@ -1,1 +1,1 @@
-Studies#feature/toJson#dbbe63e9de81bf67255fc526a1b68b7c4e41cde8
+Model#feature/study-text#6cbf6ed44234ef4baccecc6230d945ded99e3d8d
