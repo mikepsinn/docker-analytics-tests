@@ -1,1 +1,1 @@
-Laravel#feature/deleteAllPosts#309b19c462cda23d60a3e732e508a61eaa505f87
+Studies#feature/deleteAllPosts#309b19c462cda23d60a3e732e508a61eaa505f87
