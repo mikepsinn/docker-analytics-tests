@@ -1,1 +1,1 @@
-Model#feature/asset-url#3cc550d650af15662cd4507807516a46966fdb8c
+Connectors#feature/asset-url#3cc550d650af15662cd4507807516a46966fdb8c
