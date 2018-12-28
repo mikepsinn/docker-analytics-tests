@@ -1,1 +1,1 @@
-Laravel#feature/charts#80a405fbebaa30ae501ee54e96dfec317a371610
+Studies#feature/charts#80a405fbebaa30ae501ee54e96dfec317a371610
