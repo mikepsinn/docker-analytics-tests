@@ -1,1 +1,1 @@
-Laravel#feature/string-helper#56a7b88efcb5d717cbb523ca59337d188490965f
+Studies#feature/string-helper#56a7b88efcb5d717cbb523ca59337d188490965f
