@@ -1,1 +1,1 @@
-Studies#feature/score#a2e7bf21c1f4426ff20e5fcf1d94fceae2778e3d
+Model#feature/GaugeAndImagesWithTagLine#e0d0a2505b593e164fe2b16d6b3b56155fd8965b
