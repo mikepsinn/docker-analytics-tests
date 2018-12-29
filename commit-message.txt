@@ -1,1 +1,1 @@
-Studies#feature/lastLoginAt#2d769f7b05fd389e30c0dd3a9579cc1ecca6e4fb
+Model#feature/lastLoginAt#2d769f7b05fd389e30c0dd3a9579cc1ecca6e4fb
