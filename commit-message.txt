@@ -1,1 +1,1 @@
-Laravel#feature/weShouldReturnJsonResponse#5f6769dbced74548986ce6b978f355c76b8f6926
+Studies#feature/weShouldReturnJsonResponse#5f6769dbced74548986ce6b978f355c76b8f6926
