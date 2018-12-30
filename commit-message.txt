@@ -1,1 +1,1 @@
-Laravel#feature/errorOrDebugIfTesting#f60cdce1f962942fc807b9ec9c50afe1c2515f4f
+Studies#feature/errorOrDebugIfTesting#f60cdce1f962942fc807b9ec9c50afe1c2515f4f
