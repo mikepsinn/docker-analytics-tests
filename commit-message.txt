@@ -1,1 +1,1 @@
-Studies#feature/convertToSvgConfig#b828caafc4c47edd432c56963fa809916dc88fd4
+Model#feature/convertToSvgConfig#f7d096fedde23bdc155604b6a1e8f79e00ed9ce1
