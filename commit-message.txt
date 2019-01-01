@@ -1,1 +1,1 @@
-Laravel#feature/email-service#1bb560de32b0a2731cf2ffb60de2b8b3bd13c901
+Studies#feature/email-service#1bb560de32b0a2731cf2ffb60de2b8b3bd13c901
