@@ -1,1 +1,1 @@
-Laravel#feature/convertToSvgConfig#a3feb902ff234540b76c46a214208fc9387b73a7
+Studies#feature/convertToSvgConfig#a3feb902ff234540b76c46a214208fc9387b73a7
