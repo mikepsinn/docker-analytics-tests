@@ -1,1 +1,1 @@
-Model#feature/convertToSvgConfig#f7d096fedde23bdc155604b6a1e8f79e00ed9ce1
+Connectors#feature/convertToSvgConfig#f7d096fedde23bdc155604b6a1e8f79e00ed9ce1
