@@ -1,1 +1,1 @@
-Studies#feature/BadRequestException#8daca036758c2128a6cbe55ea7e5926cb681e2d7
+Model#feature/publish-studies#be9e1049a40527cda29f54395cf35eadf2dc6aad
