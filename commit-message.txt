@@ -1,1 +1,1 @@
-Laravel#renovate/laravel-framework-5.x#a24257190aa8e2d30a11b9d2c98236eb275b3927
+Studies#renovate/laravel-framework-5.x#a24257190aa8e2d30a11b9d2c98236eb275b3927
