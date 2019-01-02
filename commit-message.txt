@@ -1,1 +1,1 @@
-Model#feature/publish-studies#5dc674385b04083fb48e861e38fa9a48154b2cfa
+Connectors#feature/publish-studies#5dc674385b04083fb48e861e38fa9a48154b2cfa
