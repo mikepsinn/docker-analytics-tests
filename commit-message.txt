@@ -1,1 +1,1 @@
-Model#feature/getLinkedSvgHtml#4b6c11560c44e66f77bcf68e595f6643cbf81e6b
+Connectors#feature/getLinkedSvgHtml#4b6c11560c44e66f77bcf68e595f6643cbf81e6b
