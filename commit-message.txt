@@ -1,1 +1,1 @@
-Laravel#feature/BadRequestException#8daca036758c2128a6cbe55ea7e5926cb681e2d7
+Studies#feature/BadRequestException#8daca036758c2128a6cbe55ea7e5926cb681e2d7
