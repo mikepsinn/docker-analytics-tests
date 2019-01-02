@@ -1,1 +1,1 @@
-Connectors#feature/publish-studies#e588fc60dd7511a2eba79ad5f9a596fe49df71db
+Tasks#feature/publish-studies#e588fc60dd7511a2eba79ad5f9a596fe49df71db
