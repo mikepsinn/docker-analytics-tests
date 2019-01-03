@@ -1,1 +1,1 @@
-Laravel#feature/highchart-export#b93760409f1df4316fc331af783ea6e56431b09a
+Studies#feature/highchart-export#b93760409f1df4316fc331af783ea6e56431b09a
