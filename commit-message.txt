@@ -1,1 +1,1 @@
-Laravel#feature/embedded-svgs#8eeee1d7b99ebfac24353c4a7588137f7c654436
+Studies#feature/embedded-svgs#8eeee1d7b99ebfac24353c4a7588137f7c654436
