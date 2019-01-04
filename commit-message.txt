@@ -1,1 +1,1 @@
-Model#feature/embedded-svgs#1c389535871280825869decfc9f11724c9c78614
+Connectors#feature/embedded-svgs#1c389535871280825869decfc9f11724c9c78614
