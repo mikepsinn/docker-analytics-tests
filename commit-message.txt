@@ -1,1 +1,1 @@
-Studies#feature/embedded-svgs#3ecee9b947e400198431da4174d542f623cc3af8
+Model#feature/embedded-svgs#84fcabde55ade28afdf99618b2e59d0fd086f549
