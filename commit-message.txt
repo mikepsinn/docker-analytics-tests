@@ -1,1 +1,1 @@
-Laravel#feature/boring-variables#e0129658a00f53a8efe21e9d1b09d52be5cf8efd
+Studies#feature/boring-variables#e0129658a00f53a8efe21e9d1b09d52be5cf8efd
