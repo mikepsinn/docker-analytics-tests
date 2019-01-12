@@ -1,1 +1,1 @@
-Studies#feature/authenticateByRawPasswordAndUsernameOrEmail#e4cd7bb4cc40d76357b72d768e26faa12b80f72d
+Model#feature/authenticateByRawPasswordAndUsernameOrEmail#c92110d84f1a325bfc26c26495c7fc7a7fa21ac5
