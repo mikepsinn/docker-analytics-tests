@@ -1,1 +1,1 @@
-Laravel#feature/runkeeper#31516c9181ec6794219a6c4a6026119d3eb676c4
+Studies#feature/runkeeper#31516c9181ec6794219a6c4a6026119d3eb676c4
