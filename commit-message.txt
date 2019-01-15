@@ -1,1 +1,1 @@
-Model#feature/getStrengthSentence#36792eff76d44440995d5c8d9fb175908becd316
+Connectors#feature/getStrengthSentence#36792eff76d44440995d5c8d9fb175908becd316
