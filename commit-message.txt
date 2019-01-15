@@ -1,1 +1,1 @@
-Studies#feature/NumberOfRawMeasurementsWithTagsJoinsChildren#f7f8c6a3ed631c1684de0d54784d3fe135d83c1f
+Model#feature/containsChartTitle#ea143a6a0661b1f733c22eba5c7fab6c6bcb5d59
