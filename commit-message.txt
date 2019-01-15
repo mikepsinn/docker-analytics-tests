@@ -1,1 +1,1 @@
-Model#feature/containsChartTitle#ea143a6a0661b1f733c22eba5c7fab6c6bcb5d59
+Connectors#feature/containsChartTitle#ea143a6a0661b1f733c22eba5c7fab6c6bcb5d59
