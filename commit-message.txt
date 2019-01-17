@@ -1,1 +1,1 @@
-Tasks#feature/getLastDailyValueSentence#2741872624c2465994391473f63ae654fe15da22
+Laravel#feature/getLastDailyValueSentence#2741872624c2465994391473f63ae654fe15da22
