@@ -1,1 +1,1 @@
-Model#feature/IMAGE_HOST_URL#7dec8bfd5cdcdb03fac8911c0af8430ce00dfab9
+Connectors#feature/IMAGE_HOST_URL#7dec8bfd5cdcdb03fac8911c0af8430ce00dfab9
