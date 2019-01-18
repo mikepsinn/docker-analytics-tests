@@ -1,1 +1,1 @@
-Model#feature/getStudyLinks#d3b8432b0a971ba42761bd7a5fb7d7b677a08e5d
+Connectors#feature/getStudyLinks#d3b8432b0a971ba42761bd7a5fb7d7b677a08e5d
