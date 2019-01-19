@@ -1,1 +1,1 @@
-Studies#feature/CumulativeValueOverDurationOfActionPredictingHighOutcome#1f44507430612edacf364fd13571bda7ed961130
+Model#feature/SlackConnector#d478b8a699d35de231e6fbcf1f86980286a2d80c
