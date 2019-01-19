@@ -1,1 +1,1 @@
-Model#feature/deleteFromDatabase#e9350f437b0ff4d72ecf337d385c7123435ecc87
+Connectors#feature/deleteFromDatabase#e9350f437b0ff4d72ecf337d385c7123435ecc87
