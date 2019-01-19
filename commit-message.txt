@@ -1,1 +1,1 @@
-Laravel#feature/population-study-index#5a58d5fc5ee956f36db094a80d04ffcf09d413ec
+Studies#feature/population-study-index#5a58d5fc5ee956f36db094a80d04ffcf09d413ec
