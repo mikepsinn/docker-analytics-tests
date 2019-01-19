@@ -1,1 +1,1 @@
-Model#feature/setEffectProcessedDailyMeasurements#77ad6cecba7ee23e68863c9bda739dafd390472d
+Connectors#feature/setEffectProcessedDailyMeasurements#77ad6cecba7ee23e68863c9bda739dafd390472d
