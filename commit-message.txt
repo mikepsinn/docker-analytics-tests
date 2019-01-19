@@ -1,1 +1,1 @@
-Laravel#feature/composer-update#cd7c6cd988e56a5f0906d782d1a55abc0101882a
+Studies#feature/composer-update#cd7c6cd988e56a5f0906d782d1a55abc0101882a
