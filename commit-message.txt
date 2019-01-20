@@ -1,1 +1,1 @@
-Studies#feature/wp_capabilities#9bcbad57c105c567eebc75d91ac8ff6050b4c1bd
+Model#feature/wp_capabilities#0390f14c301b09a3256157aac1f15195ce63334f
