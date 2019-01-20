@@ -1,1 +1,1 @@
-Model#feature/measurement-request#8d27029851be6b696cf84333037b4cd3b3776c8d
+Connectors#feature/measurement-request#8d27029851be6b696cf84333037b4cd3b3776c8d
