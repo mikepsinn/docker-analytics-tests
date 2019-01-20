@@ -1,1 +1,1 @@
-Model#feature/getAggregated#b74e519f77a1f9ec38d75e6a99e509d1a57ecf35
+Connectors#feature/getAggregated#b74e519f77a1f9ec38d75e6a99e509d1a57ecf35
