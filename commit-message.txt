@@ -1,1 +1,1 @@
-Laravel#feature/OAUTH_SERVICE_NAME#f2fad161fea356bff77fa87deede11cfb4cfbe52
+Studies#feature/OAUTH_SERVICE_NAME#f2fad161fea356bff77fa87deede11cfb4cfbe52
