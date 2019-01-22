@@ -1,1 +1,1 @@
-Studies#feature/wordpress-buttons#897bb488d0717f230bc809c3a91a0f3903f50928
+Model#feature/getDataAnalysisParagraph#e3b711d2880a046c926d1504d0f46e5b20c10c1e
