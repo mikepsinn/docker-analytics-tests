@@ -1,1 +1,1 @@
-Connectors#renovate/major-symfony#e68327cfb970ccf33f1355b06101108bce5d14e9
+Tasks#renovate/major-symfony#e68327cfb970ccf33f1355b06101108bce5d14e9
