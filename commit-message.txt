@@ -1,1 +1,1 @@
-Laravel#feature/setStudyButtons#552d145156be13088bb56aa739051bbab70f4dbb
+Studies#feature/setStudyButtons#552d145156be13088bb56aa739051bbab70f4dbb
