@@ -1,1 +1,1 @@
-Model#feature/getStudyLinkStatic#48f762ea320d2ed29018fca482dfd446ef9fc07d
+Connectors#feature/getStudyLinkStatic#48f762ea320d2ed29018fca482dfd446ef9fc07d
