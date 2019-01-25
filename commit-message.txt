@@ -1,1 +1,1 @@
-Laravel#feature/getStudyLinkStatic#48f762ea320d2ed29018fca482dfd446ef9fc07d
+Studies#feature/getStudyLinkStatic#48f762ea320d2ed29018fca482dfd446ef9fc07d
