@@ -1,1 +1,1 @@
-Model#feature/enoughNewMeasurementsToUpdate#e539677c3b0d34cf34638b603b35cbc86aa348da
+Connectors#feature/enoughNewMeasurementsToUpdate#e539677c3b0d34cf34638b603b35cbc86aa348da
