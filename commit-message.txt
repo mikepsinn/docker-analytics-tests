@@ -1,1 +1,1 @@
-Studies#feature/getOptimalValueForNegativeValenceString#92c1f64ba5d35b08dbb56b0eb7516b49ff0c327e
+Model#feature/validateCalculation#051e4f4dac7dabf568b257bf2131712175606cd0
