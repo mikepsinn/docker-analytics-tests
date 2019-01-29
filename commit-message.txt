@@ -1,1 +1,1 @@
-Model#feature/getChartsUrl#dbc9c1e37fcce16dcc089812327fb3c2fd071925
+Connectors#feature/getChartsUrl#dbc9c1e37fcce16dcc089812327fb3c2fd071925
