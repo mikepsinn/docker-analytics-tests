@@ -1,1 +1,1 @@
-Studies#feature/validateCalculation#ebb93ca5fff9d73af0e2a9c2473c828533fad9a3
+Model#feature/getChartsUrl#dbc9c1e37fcce16dcc089812327fb3c2fd071925
