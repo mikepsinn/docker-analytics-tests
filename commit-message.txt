@@ -1,1 +1,1 @@
-Laravel#feature/delete-stupid-variables#c36442a03dc8c85642f45d13d8ce4da86de9009d
+Studies#feature/delete-stupid-variables#c36442a03dc8c85642f45d13d8ce4da86de9009d
