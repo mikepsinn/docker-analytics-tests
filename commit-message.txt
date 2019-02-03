@@ -1,1 +1,1 @@
-Model#feature/git-commit#67a66ab49486c92bd395a9701b32f51644db55c9
+Connectors#feature/git-commit#67a66ab49486c92bd395a9701b32f51644db55c9
