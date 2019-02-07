@@ -1,1 +1,1 @@
-Laravel#feature/postToWordPress#52eb5b61f7509cbcb0f5446f1a00cdfc6b9202d0
+Studies#feature/postToWordPress#52eb5b61f7509cbcb0f5446f1a00cdfc6b9202d0
