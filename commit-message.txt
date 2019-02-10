@@ -1,1 +1,1 @@
-Model#feature/activities-outcome#25b6e8951e3c53a17c63db8856579efff47974ee
+Connectors#feature/activities-outcome#25b6e8951e3c53a17c63db8856579efff47974ee
