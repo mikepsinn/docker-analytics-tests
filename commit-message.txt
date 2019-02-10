@@ -1,1 +1,1 @@
-Tasks#renovate/laravel-framework-5.x#a49b1f221fa3be02753eaae0c93c819f4276cbaa
+Laravel#renovate/laravel-framework-5.x#a49b1f221fa3be02753eaae0c93c819f4276cbaa
