@@ -1,1 +1,1 @@
-Studies#feature/postToWordPress#7fa6b2a03eaf2ee455184862a082022985492053
+Model#feature/postToWordPress#2300a382ce784ac90e6810c3255bb50aa3022115
