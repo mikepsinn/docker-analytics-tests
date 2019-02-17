@@ -1,1 +1,1 @@
-Studies#renovate/laravel-socialite-4.x#86267d925a0821956a5570fb40237734b6fbe8ec
+Model#renovate/mockery-mockery-1.x#e879a6cd96457015b007e41947568d783bdcd2f3
