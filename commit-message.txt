@@ -1,1 +1,1 @@
-Studies#renovate/mockery-mockery-1.x#e879a6cd96457015b007e41947568d783bdcd2f3
+Model#renovate/yargs-13.x#d969b094c2c58f3355581a8c447941daf6948040
