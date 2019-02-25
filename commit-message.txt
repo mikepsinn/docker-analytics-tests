@@ -1,1 +1,1 @@
-Studies#renovate/johnkary-phpunit-speedtrap-3.x#282637ddd568fc861b9e1ae5558a1e030081565c
+Model#renovate/mockery-mockery-1.x#f3c87e5ec0ee6a616a4869073936942e66c6f82c
