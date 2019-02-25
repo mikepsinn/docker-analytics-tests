@@ -1,1 +1,1 @@
-Studies#renovate/laravel-socialite-4.x#d4b67cc69cba5dcfc277e35d9cd2e77ef08b072b
+Model#renovate/alcaeus-mongo-php-adapter-1.x#cb6762ca0f6da89edda75cacba63270c0753dd32
