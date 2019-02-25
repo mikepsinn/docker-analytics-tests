@@ -1,1 +1,1 @@
-Laravel#renovate/alcaeus-mongo-php-adapter-1.x#cb6762ca0f6da89edda75cacba63270c0753dd32
+Studies#renovate/alcaeus-mongo-php-adapter-1.x#cb6762ca0f6da89edda75cacba63270c0753dd32
