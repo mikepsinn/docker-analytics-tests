@@ -1,1 +1,1 @@
-Laravel#renovate/laravel-socialite-4.x#d4b67cc69cba5dcfc277e35d9cd2e77ef08b072b
+Studies#renovate/laravel-socialite-4.x#d4b67cc69cba5dcfc277e35d9cd2e77ef08b072b
