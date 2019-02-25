@@ -1,1 +1,1 @@
-Tasks#renovate/laravel-socialite-4.x#99bd78e11ebe851abdb073c07b5fa3550bb1cdd1
+Laravel#renovate/laravel-socialite-4.x#99bd78e11ebe851abdb073c07b5fa3550bb1cdd1
