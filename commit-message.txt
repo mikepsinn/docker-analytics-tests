@@ -1,1 +1,1 @@
-Laravel#renovate/mockery-mockery-1.x#ef3d960632f6cf151a0d57a24fc61d8eb10d0dbd
+Studies#renovate/mockery-mockery-1.x#ef3d960632f6cf151a0d57a24fc61d8eb10d0dbd
