@@ -1,1 +1,1 @@
-Connectors#renovate/laravelium-sitemap-3.x#6601f1df878147fb2baa8420ad8d8cda0968e53b
+Tasks#renovate/laravelium-sitemap-3.x#6601f1df878147fb2baa8420ad8d8cda0968e53b
