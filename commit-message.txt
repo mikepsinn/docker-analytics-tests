@@ -1,1 +1,1 @@
-Model#feature/fitbit#efa87b05e32ed0dada71f03920ca004f134fb9b8
+Connectors#feature/fitbit#efa87b05e32ed0dada71f03920ca004f134fb9b8
