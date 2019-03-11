@@ -1,1 +1,1 @@
-Model#renovate/mockery-mockery-1.x#35bba5689b6f294d16d92a38c31c0cbd6fb543a2
+Connectors#renovate/mockery-mockery-1.x#35bba5689b6f294d16d92a38c31c0cbd6fb543a2
