@@ -1,1 +1,1 @@
-Laravel#renovate/laravelium-sitemap-3.x#b3af1f1eec599adef5654ead226438fbd0ea77d3
+Studies#renovate/laravelium-sitemap-3.x#b3af1f1eec599adef5654ead226438fbd0ea77d3
