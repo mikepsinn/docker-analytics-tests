@@ -1,1 +1,1 @@
-Model#feature/clientSecret#f7a44c6d59e282bdf750b443969a0f3702518a79
+Connectors#feature/clientSecret#f7a44c6d59e282bdf750b443969a0f3702518a79
