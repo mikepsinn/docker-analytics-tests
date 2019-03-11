@@ -1,1 +1,1 @@
-Studies#feature/activities-outcome#60db78deba51af14898105476bbfb9db2e4ecf7d
+Model#feature/fitbit#2c0972c155b33f48bcee21110e8729001cbd8b0d
