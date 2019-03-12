@@ -1,1 +1,1 @@
-Model#feature/variable-category-images#073958dd385fbcc765df5f54038566767b890176
+Connectors#feature/variable-category-images#073958dd385fbcc765df5f54038566767b890176
