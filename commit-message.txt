@@ -1,1 +1,1 @@
-Model#renovate/krlove-eloquent-model-generator-1.x#c0c0bd47e2a0ba6d65031667fd270a7f682b7d9f
+Connectors#renovate/krlove-eloquent-model-generator-1.x#c0c0bd47e2a0ba6d65031667fd270a7f682b7d9f
