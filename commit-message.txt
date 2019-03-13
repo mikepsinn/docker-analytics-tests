@@ -1,1 +1,1 @@
-Laravel#renovate/tracy-tracy-2.x#e228bce5d1e8137a8f23c4430c2dfef544e81d9f
+Studies#renovate/tracy-tracy-2.x#e228bce5d1e8137a8f23c4430c2dfef544e81d9f
