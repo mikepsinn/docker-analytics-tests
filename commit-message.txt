@@ -1,1 +1,1 @@
-Laravel#feature/new-user#70384bfb74e9b063acf0a28ceb0b54765f92b8af
+Studies#feature/new-user#70384bfb74e9b063acf0a28ceb0b54765f92b8af
