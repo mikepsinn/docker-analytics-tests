@@ -1,1 +1,1 @@
-Connectors#renovate/mockery-mockery-1.x#9f5713f3986d014eb1822764da9c0ecb0189e39d
+Tasks#renovate/mockery-mockery-1.x#9f5713f3986d014eb1822764da9c0ecb0189e39d
