@@ -1,1 +1,1 @@
-Model#renovate/laravel-socialite-4.x#75921b328294953d034dd108d390c3fcb4f9c54c
+Connectors#renovate/laravel-socialite-4.x#75921b328294953d034dd108d390c3fcb4f9c54c
