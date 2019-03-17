@@ -1,1 +1,1 @@
-Tasks#renovate/laravel-cashier-9.x#72ebbcf5e639ddde88349dfb5fbcfc67a34d5d8a
+Laravel#renovate/laravel-cashier-9.x#72ebbcf5e639ddde88349dfb5fbcfc67a34d5d8a
