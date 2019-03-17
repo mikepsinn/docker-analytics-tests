@@ -1,1 +1,1 @@
-Laravel#renovate/yargs-13.x#0b42adbd73ea2e1dcaae9abe271dd48f21edc94b
+Studies#renovate/yargs-13.x#0b42adbd73ea2e1dcaae9abe271dd48f21edc94b
