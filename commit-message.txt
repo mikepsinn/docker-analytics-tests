@@ -1,1 +1,1 @@
-Connectors#renovate/soundasleep-html2text-1.x#101a69028f2e6437542dadaa14a164e03cbcfdf3
+Tasks#renovate/soundasleep-html2text-1.x#101a69028f2e6437542dadaa14a164e03cbcfdf3
