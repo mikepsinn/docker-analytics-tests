@@ -1,1 +1,1 @@
-Laravel#renovate/soundasleep-html2text-1.x#4c7863beedfe4cbc3566796b10c7b09b50e2eb76
+Studies#renovate/soundasleep-html2text-1.x#4c7863beedfe4cbc3566796b10c7b09b50e2eb76
