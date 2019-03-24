@@ -1,1 +1,1 @@
-Model#feature/stashPullAndCommit#c0ca88825ee6139ef8ea45f95b8e06758bae9971
+Connectors#feature/stashPullAndCommit#c0ca88825ee6139ef8ea45f95b8e06758bae9971
