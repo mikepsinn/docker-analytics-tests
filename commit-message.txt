@@ -1,1 +1,1 @@
-Studies#feature/chart-commits#5072e274226951ba9fa9b1ec4fc16ffd5623644b
+Model#feature/chart-commits#a4b91452b42c9220b20a419ded6a579a32654ff4
