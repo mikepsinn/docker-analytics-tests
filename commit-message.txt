@@ -1,1 +1,1 @@
-Connectors#feature/humanizeStudyText#f8c5457498b7794437868dfe4bf9041bf960f967
+Tasks#feature/humanizeStudyText#f8c5457498b7794437868dfe4bf9041bf960f967
