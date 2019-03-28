@@ -1,1 +1,1 @@
-Model#feature/gauge_png#1ce428743e3f39a7a5f923184e89909ddd2a9ead
+Connectors#feature/gauge_png#1ce428743e3f39a7a5f923184e89909ddd2a9ead
