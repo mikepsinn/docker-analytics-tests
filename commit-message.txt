@@ -1,1 +1,1 @@
-Laravel#feature/GetAuthorizationPageController#6310a4355e2f0306d8cb0bbdd57dbd7fa3add7ee
+Studies#feature/GetAuthorizationPageController#6310a4355e2f0306d8cb0bbdd57dbd7fa3add7ee
