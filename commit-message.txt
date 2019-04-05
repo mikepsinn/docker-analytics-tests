@@ -1,1 +1,1 @@
-Laravel#feature/fitbit-login#95146940430a460741c48bfae1df3f28cf3f4f19
+Studies#feature/fitbit-login#95146940430a460741c48bfae1df3f28cf3f4f19
