@@ -1,1 +1,1 @@
-Studies#feature/getDefaultValueInUserUnit#252d9ed717d3232d4a1d32728d5c239f8878fd75
+Model#feature/vote#d8921469de5c18781185b41c70d7b7adbef9acb7
