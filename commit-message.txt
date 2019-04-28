@@ -1,1 +1,1 @@
-Laravel#renovate/compress-images-1.x#d4256720dcebae9b8e512af75b7c7958cb298301
+Studies#renovate/compress-images-1.x#d4256720dcebae9b8e512af75b7c7958cb298301
