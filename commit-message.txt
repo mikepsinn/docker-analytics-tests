@@ -1,1 +1,1 @@
-Model#feature/get-studies-test#b4c347c6d683173ba3321a094555b4768fbae9a9
+Connectors#feature/get-studies-test#b4c347c6d683173ba3321a094555b4768fbae9a9
