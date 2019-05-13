@@ -1,1 +1,1 @@
-Laravel#renovate/doctrine-migrations-2.x#cfb2dc3a68569277914a32dd6b3ff7224e278cc3
+Studies#renovate/doctrine-migrations-2.x#cfb2dc3a68569277914a32dd6b3ff7224e278cc3
