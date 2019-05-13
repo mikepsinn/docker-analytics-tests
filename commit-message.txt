@@ -1,1 +1,1 @@
-Studies#feature/arrows#da5326bb5d0026616f544999d5552ef1d0cc4f4f
+Model#feature/testGetStudies#4150839bbe49b396e03e71bb4a2f7fee169da27b
