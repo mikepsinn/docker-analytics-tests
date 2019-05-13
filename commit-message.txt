@@ -1,1 +1,1 @@
-Tasks#renovate/compress-images-1.x#fefacc05a159c3dcc0f693f7946bddd6e59ccf4a
+Laravel#renovate/compress-images-1.x#fefacc05a159c3dcc0f693f7946bddd6e59ccf4a
