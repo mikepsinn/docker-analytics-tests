@@ -1,1 +1,1 @@
-Tasks#renovate/ipunkt-laravel-analytics-1.x#fc8a2456e554fdee085edc89ccd7f7e3400e552c
+Laravel#renovate/ipunkt-laravel-analytics-1.x#fc8a2456e554fdee085edc89ccd7f7e3400e552c
