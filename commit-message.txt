@@ -1,1 +1,1 @@
-Tasks#renovate/yargs-13.x#520941f366e456bcc1a984939734577ba98aff0a
+Laravel#renovate/yargs-13.x#520941f366e456bcc1a984939734577ba98aff0a
