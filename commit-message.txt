@@ -1,1 +1,1 @@
-Connectors#renovate/compress-images-1.x#f2e298524b343fc4de5d934b6a616a586e19a190
+Tasks#renovate/compress-images-1.x#f2e298524b343fc4de5d934b6a616a586e19a190
