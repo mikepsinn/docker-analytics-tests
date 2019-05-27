@@ -1,1 +1,1 @@
-Laravel#renovate/laravel-cashier-9.x#0f5df65b7efc4362fd828fbf8ae527850ddfd5bb
+Studies#renovate/laravel-cashier-9.x#0f5df65b7efc4362fd828fbf8ae527850ddfd5bb
