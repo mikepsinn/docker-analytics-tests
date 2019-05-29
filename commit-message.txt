@@ -1,1 +1,1 @@
-Model#renovate/bugsnag-bugsnag-3.x#8474db039df062723488569aaa4186357d611b19
+Connectors#renovate/bugsnag-bugsnag-3.x#8474db039df062723488569aaa4186357d611b19
