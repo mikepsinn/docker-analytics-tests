@@ -1,1 +1,1 @@
-Tasks#renovate/doctrine-migrations-2.x#6602f747a3752c83561ef26f83d75c2ed6a5e668
+Laravel#renovate/doctrine-migrations-2.x#6602f747a3752c83561ef26f83d75c2ed6a5e668
