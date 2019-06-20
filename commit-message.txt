@@ -1,1 +1,1 @@
-Laravel#renovate/phpoffice-phpspreadsheet-1.x#1b39a8918971849aa47844099a2b4bb826cd0d5d
+Studies#renovate/phpoffice-phpspreadsheet-1.x#1b39a8918971849aa47844099a2b4bb826cd0d5d
