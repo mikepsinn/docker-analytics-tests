@@ -1,1 +1,1 @@
-Model#renovate/doctrine-migrations-2.x#33eb535b1d2d471e92e517870d049bd064ad46ae
+Connectors#renovate/doctrine-migrations-2.x#33eb535b1d2d471e92e517870d049bd064ad46ae
