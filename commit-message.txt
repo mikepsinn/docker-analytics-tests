@@ -1,1 +1,1 @@
-Laravel#feature/chart-check#7493e41964429ab4d8192fc7c941f49a958e4bb2
+Studies#feature/chart-check#7493e41964429ab4d8192fc7c941f49a958e4bb2
