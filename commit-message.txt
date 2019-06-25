@@ -1,1 +1,1 @@
-Connectors#feature/setChartHtmlWithLinkedSvgs#eac55862f837e82fe5df7d4ccacabdba43c46816
+Tasks#feature/setChartHtmlWithLinkedSvgs#eac55862f837e82fe5df7d4ccacabdba43c46816
