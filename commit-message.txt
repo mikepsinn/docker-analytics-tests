@@ -1,1 +1,1 @@
-Model#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
+Connectors#feature/hasValidImage#080a8f0ada587334e6aefbab45072eb47121b492
