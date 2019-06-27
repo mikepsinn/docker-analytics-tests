@@ -1,1 +1,1 @@
-Laravel#feature/upload-charts#83b5844aeb39a010d4462c6c6dd5f0b74a5abdcf
+Studies#feature/upload-charts#83b5844aeb39a010d4462c6c6dd5f0b74a5abdcf
