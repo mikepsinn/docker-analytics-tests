@@ -1,1 +1,1 @@
-Model#feature/logInfo#04054a7d674b02d884bf433e922a6038c20e73ac
+Connectors#feature/logInfo#04054a7d674b02d884bf433e922a6038c20e73ac
