@@ -1,1 +1,1 @@
-Laravel#feature/hasValidImage#5fb80e68d7bf2b0c72ddcc60472ad3f8bc443adc
+Studies#feature/hasValidImage#5fb80e68d7bf2b0c72ddcc60472ad3f8bc443adc
