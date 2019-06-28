@@ -1,1 +1,1 @@
-Model#feature/getUrl#bc674b0e810d7054652432ed128b3710431de9b3
+Connectors#feature/getUrl#bc674b0e810d7054652432ed128b3710431de9b3
