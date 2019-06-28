@@ -1,1 +1,1 @@
-Studies#feature/json#b72fe2755442e2403110d88ff05396174eeff823
+Model#feature/should-publish#71fb522e7913fc10de5530fd06120e31e6c57e67
