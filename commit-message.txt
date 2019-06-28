@@ -1,1 +1,1 @@
-Laravel#feature/study-publishing#e035850b64ee1036bde6790757a8f230571238a5
+Studies#feature/study-publishing#e035850b64ee1036bde6790757a8f230571238a5
