@@ -1,1 +1,1 @@
-Connectors#feature/QMMeasurementsChart#96285b12725d10bc472590d2bc535c3b23437f52
+Tasks#feature/QMMeasurementsChart#96285b12725d10bc472590d2bc535c3b23437f52
