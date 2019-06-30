@@ -1,1 +1,1 @@
-Model#renovate/phpoffice-phpspreadsheet-1.x#2940db9b2010d86c992f6e9fecabb5c7dd944f95
+Connectors#renovate/phpoffice-phpspreadsheet-1.x#2940db9b2010d86c992f6e9fecabb5c7dd944f95
