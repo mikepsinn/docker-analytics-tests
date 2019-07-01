@@ -1,1 +1,1 @@
-Connectors#renovate/laravel-cashier-9.x#da2e51298e1b675b24b46fe46f9cfe87266803ec
+Tasks#renovate/laravel-cashier-9.x#da2e51298e1b675b24b46fe46f9cfe87266803ec
