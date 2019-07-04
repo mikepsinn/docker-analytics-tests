@@ -1,1 +1,1 @@
-Studies#feature/highchart-export#b74fefbe6059eb5fbeb34c70ba534dedcff2bd8b
+Model#feature/highchart-export#b74fefbe6059eb5fbeb34c70ba534dedcff2bd8b
