@@ -1,1 +1,1 @@
-Model#feature/s3-path#f394c3cdc080e7664eb08a79ea6fad20041e8b8e
+Connectors#feature/s3-path#f394c3cdc080e7664eb08a79ea6fad20041e8b8e
