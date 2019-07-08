@@ -1,1 +1,1 @@
-Studies#feature/s3-path#f394c3cdc080e7664eb08a79ea6fad20041e8b8e
+Model#feature/QMCHart#59b9fe36f3bd7d6c9389ce68258958e7b0029d56
