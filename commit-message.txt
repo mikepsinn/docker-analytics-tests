@@ -1,1 +1,1 @@
-Laravel#feature/setChartHtmlWithLinkedSvgs#35122e79e212a5d31a48544ea36641228a1834b2
+Studies#feature/setChartHtmlWithLinkedSvgs#35122e79e212a5d31a48544ea36641228a1834b2
