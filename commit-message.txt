@@ -1,1 +1,1 @@
-Connectors#feature/withings-connector#2087c50034b4985aabb1ffae743facd159b5e939
+Tasks#feature/withings-connector#2087c50034b4985aabb1ffae743facd159b5e939
