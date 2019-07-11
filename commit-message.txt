@@ -1,1 +1,1 @@
-Laravel#feature/resizeCategoryPngs#2779fe39da1f63346a62b5c4288732182851f105
+Studies#feature/resizeCategoryPngs#2779fe39da1f63346a62b5c4288732182851f105
