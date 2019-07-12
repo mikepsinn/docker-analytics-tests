@@ -1,1 +1,1 @@
-Model#feature/writeToSpreadsheetHorizontally#eaf28af7063bf1669e62e108603dacffca5ed0ab
+Connectors#feature/writeToSpreadsheetHorizontally#eaf28af7063bf1669e62e108603dacffca5ed0ab
