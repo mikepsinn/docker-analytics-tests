@@ -1,1 +1,1 @@
-Laravel#feature/Email#c2989f30c0feae882bb1376ac9d1f6931ea2476c
+Studies#feature/Email#c2989f30c0feae882bb1376ac9d1f6931ea2476c
