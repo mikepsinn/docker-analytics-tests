@@ -1,1 +1,1 @@
-Studies#feature/minimumSecondsBetweenEmails#d265ddbaa34abbde0d3aa55706de8c505609abf3
+Model#feature/getChangeColumnExplanation#c4e2970ccfc4d0fa25fd10fec92764f599d7e206
