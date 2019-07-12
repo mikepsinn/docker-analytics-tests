@@ -1,1 +1,1 @@
-Studies#feature/QMChart#9cb6c38018b0467b27a16695a7f43f76d39694d8
+Model#feature/QMGlobals#c63e56b7da30953e61ae13130c19e27f479ab0de
