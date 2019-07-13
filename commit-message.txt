@@ -1,1 +1,1 @@
-Connectors#feature/exceptionIfTooSoonToSendAnotherEmail#f42c27981071de2c45bb1caa1d6426e7cac37224
+Tasks#feature/exceptionIfTooSoonToSendAnotherEmail#f42c27981071de2c45bb1caa1d6426e7cac37224
