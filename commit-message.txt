@@ -1,1 +1,1 @@
-Connectors#feature/fitbit-test#6d1972e61ecf309f3802566180f5d58835cbad62
+Tasks#feature/fitbit-test#6d1972e61ecf309f3802566180f5d58835cbad62
