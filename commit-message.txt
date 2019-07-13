@@ -1,1 +1,1 @@
-Model#feature/getChangeColumnExplanation#4a5d4a1a6d1aad25f194d351fb9f1d717bcf9d2b
+Connectors#feature/getChangeColumnExplanation#4a5d4a1a6d1aad25f194d351fb9f1d717bcf9d2b
