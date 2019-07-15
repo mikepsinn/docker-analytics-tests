@@ -1,1 +1,1 @@
-Connectors#feature/amazon#906a860cefa040f349ceef3c4f7fc85177b25254
+Tasks#feature/amazon#906a860cefa040f349ceef3c4f7fc85177b25254
