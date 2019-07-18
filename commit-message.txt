@@ -1,1 +1,1 @@
-Tasks#feature/SentEmailSlugs#6711c46ae38916ae2321029960e5c44d7370aa41
+Laravel#feature/SentEmailSlugs#6711c46ae38916ae2321029960e5c44d7370aa41
