@@ -25,6 +25,7 @@ steps:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    export TRAVIS_BUILD_DIR=$PWD
     sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
     sudo mysql_upgrade -u root -ptest_password
     sudo service mysql restart
@@ -37,6 +38,7 @@ steps:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    export TRAVIS_BUILD_DIR=$PWD
     ./clone.sh
     chmod +x ./qm-api/tests/travis/*.sh
     ./qm-api/tests/travis/mark_pending_on_github.sh
@@ -52,24 +54,22 @@ steps:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    export TRAVIS_BUILD_DIR=$PWD
     ./qm-api/tests/travis/phpunit.sh
   displayName: test
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    export TRAVIS_BUILD_DIR=$PWD
     ./qm-api/tests/travis/mark_failed_on_github.sh
   displayName:  after_failure
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    export TRAVIS_BUILD_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
     ./qm-api/tests/travis/mark_succeeded_on_github.sh
   displayName:  after_success
-  env:
-    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
-
-- script: composer install --no-interaction --prefer-dist
-  displayName: 'composer install'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
