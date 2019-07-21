@@ -8,21 +8,21 @@ trigger:
 
 resources:
   containers:
-  - container: redis
-    image: redis
-    ports:
-    - 6379:6379
+#  - container: redis
+#    image: redis
+#    ports:
+#    - 6379:6379
   - container: mongo
     image: mongo
     ports:
     - 27017:27017
-  - container: postgres
-    image: postgres
-    ports:
-    - 5432:5432
-    env:
-      POSTGRES_PASSWORD: postgres
-      POSTGRES_DB: test
+#  - container: postgres
+#    image: postgres
+#    ports:
+#    - 5432:5432
+#    env:
+#      POSTGRES_PASSWORD: postgres
+#      POSTGRES_DB: test
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -31,7 +31,7 @@ variables:
   phpVersion: 7.2
   #DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
   #MYSQL_DATABASE: test
-  RedisConnectionString: localhost:6379
+  #RedisConnectionString: localhost:6379
   MongoDbConnectionString: mongodb://localhost:27017/test
   #MySQLConnectionString: server=localhost;uid=root;pwd=root;database=test;Allow User Variables=true
   #PostgreSqlConnectionString: Server=localhost;Port=5432;Database=test;User Id=postgres;Password=postgres;
@@ -52,7 +52,8 @@ steps:
 
 - script: |
     curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
-    sudo apt-get install -y build-essential debconf-utils screen nodejs mysql-server google-chrome-stable
+    sudo apt-get install -y build-essential debconf-utils screen mysql-server 
+    #sudo apt-get install -y nodejs google-chrome-stable
     sudo apt-get install -y unzip xvfb autogen autoconf libtool pkg-config nasm
     sudo mysql -uroot -proot -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
     sudo mysql -u root -ptest_password -e 'create database quantimodo_test;'
