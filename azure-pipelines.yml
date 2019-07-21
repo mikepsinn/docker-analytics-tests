@@ -1,0 +1,61 @@
+# PHP
+# Test and package your PHP project.
+# Add steps that run tests, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/php
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  phpVersion: 7.2
+
+steps:
+- script: |
+    sudo update-alternatives --set php /usr/bin/php$(phpVersion)
+    sudo update-alternatives --set phar /usr/bin/phar$(phpVersion)
+    sudo update-alternatives --set phpdbg /usr/bin/phpdbg$(phpVersion)
+    sudo update-alternatives --set php-cgi /usr/bin/php-cgi$(phpVersion)
+    sudo update-alternatives --set phar.phar /usr/bin/phar.phar$(phpVersion)
+    php -version
+  displayName: 'Use PHP version $(phpVersion)'
+
+- script: |
+    sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
+    sudo mysql_upgrade -u root -ptest_password
+    sudo service mysql restart
+    mysql -u root -ptest_password -e 'CREATE DATABASE quantimodo_test;'
+    sudo apt-get update
+    sudo apt-get -y install pandoc
+    chmod +x ./*.sh
+  displayName: before_install
+
+- script: |
+    ./clone.sh
+    chmod +x ./qm-api/tests/travis/*.sh
+    ./qm-api/tests/travis/mark_pending_on_github.sh
+    pecl channel-update pecl.php.net
+    pecl -q install mongodb || true
+    echo "extension=mongodb.so" >> `php --ini | grep "Loaded Configuration" | sed -e "s|.*:\s*||"`
+    echo "extension = memcached.so" >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+    ./qm-api/tests/travis/tideways.sh
+    ./qm-api/tests/travis/xhgui.sh
+    ./qm-api/tests/travis/composer.sh
+  displayName: before_script
+
+- script: |
+    ./qm-api/tests/travis/phpunit.sh
+  displayName: test
+
+- script: |
+    ./qm-api/tests/travis/mark_failed_on_github.sh
+  displayName:  after_failure
+
+- script: |
+    ./qm-api/tests/travis/mark_succeeded_on_github.sh
+  displayName:  after_success
+
+- script: composer install --no-interaction --prefer-dist
+  displayName: 'composer install'
