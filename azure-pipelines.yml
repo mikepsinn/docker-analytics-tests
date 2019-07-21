@@ -85,7 +85,7 @@ steps:
     ./qm-api/tests/travis/tideways.sh
     ./qm-api/tests/travis/xhgui.sh
     ./qm-api/tests/travis/composer.sh
-  displayName: 'Installing Package Dependencies'
+  displayName: 'Cloning qm-api and Installing Package Dependencies'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
