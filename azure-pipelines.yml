@@ -11,6 +11,7 @@ pool:
 
 variables:
   phpVersion: 7.2
+  TRAVIS_BUILD_DIR: $(Agent.BuildDirectory)
 
 steps:
 - script: |
