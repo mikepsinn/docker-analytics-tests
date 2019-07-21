@@ -21,6 +21,8 @@ steps:
     sudo update-alternatives --set phar.phar /usr/bin/phar.phar$(phpVersion)
     php -version
   displayName: 'Use PHP version $(phpVersion)'
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
@@ -31,6 +33,8 @@ steps:
     sudo apt-get -y install pandoc
     chmod +x ./*.sh
   displayName: before_install
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     ./clone.sh
@@ -44,18 +48,28 @@ steps:
     ./qm-api/tests/travis/xhgui.sh
     ./qm-api/tests/travis/composer.sh
   displayName: before_script
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     ./qm-api/tests/travis/phpunit.sh
   displayName: test
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     ./qm-api/tests/travis/mark_failed_on_github.sh
   displayName:  after_failure
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     ./qm-api/tests/travis/mark_succeeded_on_github.sh
   displayName:  after_success
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: composer install --no-interaction --prefer-dist
   displayName: 'composer install'
+  env:
+    GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
