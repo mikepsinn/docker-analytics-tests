@@ -33,11 +33,15 @@ steps:
   displayName: 'Installing System Dependencies'
 
 - script: |
+    mysql --version
+  displayName: 'MySQL Version'
+
+- script: |
     export TRAVIS_BUILD_DIR=$PWD
     sudo apt-get update
     sudo apt-get -y install pandoc
     chmod +x ./*.sh
-  displayName: before_install
+  displayName: 'Installing pandoc'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
@@ -53,27 +57,61 @@ steps:
     ./qm-api/tests/travis/tideways.sh
     ./qm-api/tests/travis/xhgui.sh
     ./qm-api/tests/travis/composer.sh
-  displayName: before_script
+  displayName: 'Installing Package Dependencies'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     export TRAVIS_BUILD_DIR=$PWD
     ./qm-api/tests/travis/phpunit.sh
-  displayName: test
+  displayName: 'Running Unit Tests'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     export TRAVIS_BUILD_DIR=$PWD
     ./qm-api/tests/travis/mark_failed_on_github.sh
-  displayName:  after_failure
+  displayName:  'Failure Status'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
     export TRAVIS_BUILD_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
     ./qm-api/tests/travis/mark_succeeded_on_github.sh
-  displayName:  after_success
+  displayName:  'Success Status'
   env:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
+
+- script: |
+    echo "TODO: Implement browser tests"
+    #sudo npm i -g npm
+    #sudo chown -R vsts:vsts ~/.npm
+    #sudo chown -R vsts:vsts ~/.config
+    #npm install
+    #npm run prod
+    #node -v
+  displayName: 'Generating build assets'
+
+- script: |
+    echo "TODO: Implement browser tests"
+    #screen -d -m google-chrome-stable --headless --disable-gpu --disable-dev-shm-usage --disable-software-rasterizer --remote-debugging-port=9222 http://localhost &
+    #screen -d -m php artisan serve &
+  displayName: 'Starting Chrome and the Web Server'
+
+- script: |
+    echo "TODO: Implement browser tests"
+    #php artisan dusk --log-junit tests/Results/TEST-dusk-junit.xml
+  displayName: 'Running Browser Tests'
+
+# Publish Test Results to Azure Pipelines/TFS
+- task: PublishTestResults@2
+  inputs:
+    testRunner: 'JUnit' # Options: JUnit, NUnit, VSTest, xUnit
+    testResultsFiles: '**/TEST-*.xml'
+    searchFolder: '$(System.DefaultWorkingDirectory)/tests/Results' # Optional
+    mergeTestResults: false # Optional
+    #testRunTitle: # Optional
+    #buildPlatform: # Optional
+    #buildConfiguration: # Optional
+    #publishRunAttachments: true # Optional
+  condition: always()
