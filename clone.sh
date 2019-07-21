@@ -6,6 +6,13 @@ if [[ -z "$TRAVIS_BUILD_DIR" ]];
     else
        echo "Using pre-set TRAVIS_BUILD_DIR: $TRAVIS_BUILD_DIR"
 fi
+if [[ -z "$TRAVIS_COMMIT_MESSAGE" ]];
+    then
+        echo "Please set TRAVIS_COMMIT_MESSAGE env!"
+        exit 1;
+    else
+       echo "Using pre-set TRAVIS_COMMIT_MESSAGE: $TRAVIS_COMMIT_MESSAGE"
+fi
 source ${TRAVIS_BUILD_DIR}/set_environmental_variables.sh
 echo "Checking out revision ${SHA}"
 if [[ ! -d "${REPO_TO_TEST}" ]];
