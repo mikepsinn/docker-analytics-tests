@@ -25,12 +25,15 @@ steps:
     GITHUB_ACCESS_TOKEN: $(GITHUB_ACCESS_TOKEN)
 
 - script: |
+    curl -sL https://deb.nodesource.com/setup_11.x | sudo -E bash -
+    sudo apt-get install -y build-essential debconf-utils screen nodejs mysql-server google-chrome-stable
+    sudo apt-get install -y unzip xvfb autogen autoconf libtool pkg-config nasm
+    sudo mysql -uroot -proot -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
+    sudo mysql -u root -ptest_password -e 'create database quantimodo_test;'
+  displayName: 'Installing System Dependencies'
+
+- script: |
     export TRAVIS_BUILD_DIR=$PWD
-    sudo apt install -y mysql-server 
-    sudo mysql -e "use mysql; update user set authentication_string=PASSWORD('test_password') where User='root'; update user set plugin='mysql_native_password';FLUSH PRIVILEGES;"
-    sudo mysql_upgrade -u root -ptest_password
-    sudo service mysql restart
-    mysql -u root -ptest_password -e 'CREATE DATABASE quantimodo_test;'
     sudo apt-get update
     sudo apt-get -y install pandoc
     chmod +x ./*.sh
