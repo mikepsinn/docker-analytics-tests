@@ -1,4 +1,11 @@
 #!/usr/bin/env bash
+if [[ -z "$TRAVIS_BUILD_DIR" ]];
+    then
+        export TRAVIS_BUILD_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null 2>&1 && pwd )"
+        echo "Setting TRAVIS_BUILD_DIR to: $TRAVIS_BUILD_DIR"
+    else
+       echo "Using pre-set TRAVIS_BUILD_DIR: $TRAVIS_BUILD_DIR"
+fi
 source ${TRAVIS_BUILD_DIR}/set_environmental_variables.sh
 echo "Checking out revision ${SHA}"
 if [[ ! -d "${REPO_TO_TEST}" ]];
