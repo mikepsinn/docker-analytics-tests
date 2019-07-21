@@ -1,1 +1,1 @@
-Model#feature/statistics-table#b70a3a47a53ef9ddaf3597808961fe00013beee5
+Connectors#feature/statistics-table#b70a3a47a53ef9ddaf3597808961fe00013beee5
