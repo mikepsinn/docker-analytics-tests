@@ -37,6 +37,7 @@ variables:
   #PostgreSqlConnectionString: Server=localhost;Port=5432;Database=test;User Id=postgres;Password=postgres;
   #SQLServerConnectionString: Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=tempdb;Trusted_Connection=True;
   system.debug: true
+  TRAVIS_COMMIT_MESSAGE: $(Build.SourceVersionMessage)
 
 steps:
 - script: |
