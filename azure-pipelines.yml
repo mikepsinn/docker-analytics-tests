@@ -6,11 +6,37 @@
 trigger:
 - master
 
+resources:
+  containers:
+  - container: redis
+    image: redis
+    ports:
+    - 6379:6379
+  - container: mongo
+    image: mongo
+    ports:
+    - 27017:27017
+  - container: postgres
+    image: postgres
+    ports:
+    - 5432:5432
+    env:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: test
+
 pool:
   vmImage: 'ubuntu-latest'
 
 variables:
   phpVersion: 7.2
+  #DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
+  #MYSQL_DATABASE: test
+  RedisConnectionString: localhost:6379
+  MongoDbConnectionString: mongodb://localhost:27017/test
+  #MySQLConnectionString: server=localhost;uid=root;pwd=root;database=test;Allow User Variables=true
+  #PostgreSqlConnectionString: Server=localhost;Port=5432;Database=test;User Id=postgres;Password=postgres;
+  #SQLServerConnectionString: Data Source=(LocalDb)\MSSQLLocalDB;Initial Catalog=tempdb;Trusted_Connection=True;
+  system.debug: true
 
 steps:
 - script: |
