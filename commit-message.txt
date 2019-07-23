@@ -1,1 +1,1 @@
-Studies#feature/GoogleFitTest#8480fad97c42456d65ab5ced5ede0cd797ba0daa
+Model#feature/GoogleFitTest#3108bfb63e50951040c5dbf77247257fecad1768
