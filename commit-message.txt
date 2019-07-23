@@ -1,1 +1,1 @@
-Model#feature/logArrayOfStaticModels#db9664c3603fbefb29eb10664289109319049385
+Connectors#feature/logArrayOfStaticModels#db9664c3603fbefb29eb10664289109319049385
