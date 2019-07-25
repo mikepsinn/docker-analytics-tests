@@ -1,1 +1,1 @@
-Model#feature/reminder-notifications#53f49d0327899b5291aa2c88b69abeb9233850b4
+Connectors#feature/reminder-notifications#53f49d0327899b5291aa2c88b69abeb9233850b4
