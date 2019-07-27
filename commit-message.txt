@@ -1,1 +1,1 @@
-Model#feature/PostInvitationController#455c2beb992b502f81f8ce22f3beba76f96261cf
+Connectors#feature/PostInvitationController#455c2beb992b502f81f8ce22f3beba76f96261cf
