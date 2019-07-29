@@ -1,1 +1,1 @@
-Laravel#feature/addJsonEncodedPropertiesIfNecessary#58bf30e825df50958c303476e2406dce30de7c90
+Studies#feature/addJsonEncodedPropertiesIfNecessary#58bf30e825df50958c303476e2406dce30de7c90
