@@ -1,1 +1,1 @@
-Studies#feature/addJsonEncodedPropertiesIfNecessary#332763f6bfcd26721411ff4719914ec5a4005d84
+Model#feature/addJsonEncodedPropertiesIfNecessary#58bf30e825df50958c303476e2406dce30de7c90
