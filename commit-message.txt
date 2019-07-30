@@ -1,1 +1,1 @@
-Model#renovate/laravel-dusk-5.x#8211838ec4e6474b5214c3a427207df62f02df89
+Connectors#renovate/laravel-dusk-5.x#8211838ec4e6474b5214c3a427207df62f02df89
