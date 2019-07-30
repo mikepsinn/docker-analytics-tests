@@ -1,1 +1,1 @@
-Studies#feature/down-voted#a69a3d9043775a97d9ce842ac07f6cced2d73db3
+Model#renovate/doctrine-migrations-2.x#595c7f6708ddebfbb77dd252cb14f7b9f5cb642c
