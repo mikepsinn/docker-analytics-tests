@@ -1,1 +1,1 @@
-Model#feature/credential-validation#8921286227c711481e3911472ad0eec26076ed4d
+Connectors#feature/credential-validation#8921286227c711481e3911472ad0eec26076ed4d
