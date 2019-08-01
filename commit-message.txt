@@ -1,1 +1,1 @@
-Connectors#renovate/ghost-inspector-2.x#cd4e9102fd1e75ac9567ebea8b1052532c2850bb
+Tasks#renovate/ghost-inspector-2.x#cd4e9102fd1e75ac9567ebea8b1052532c2850bb
