@@ -1,1 +1,1 @@
-Laravel#feature/setInboxUrl#9eb56162858b330a9b6b4f811a9e2f23c74cb1fc
+Studies#feature/setInboxUrl#9eb56162858b330a9b6b4f811a9e2f23c74cb1fc
