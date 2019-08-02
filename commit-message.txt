@@ -1,1 +1,1 @@
-Model#feature/min-seconds#65f5239085342e204a801ec25b30cd48be2870be
+Connectors#feature/min-seconds#65f5239085342e204a801ec25b30cd48be2870be
