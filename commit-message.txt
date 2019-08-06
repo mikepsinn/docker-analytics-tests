@@ -1,1 +1,1 @@
-Laravel#feature/rescuetime#93598f4353213c73f7b426d4a274096797ec473e
+Studies#feature/rescuetime#93598f4353213c73f7b426d4a274096797ec473e
