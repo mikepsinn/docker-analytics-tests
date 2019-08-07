@@ -1,1 +1,1 @@
-Model#feature/fallback-avatar#6c6c3b7eef1a268ea5ef668a4f3ae2c86e2abd7a
+Connectors#feature/fallback-avatar#6c6c3b7eef1a268ea5ef668a4f3ae2c86e2abd7a
