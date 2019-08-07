@@ -1,1 +1,1 @@
-Model#feature/getPhysicianAppSettingsIfNecessary#50067ef1f075983d0e71d5a2713f9a0d1be456ec
+Connectors#feature/getPhysicianAppSettingsIfNecessary#50067ef1f075983d0e71d5a2713f9a0d1be456ec
