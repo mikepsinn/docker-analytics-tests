@@ -1,1 +1,1 @@
-Tasks#renovate/mockery-mockery-1.x#954ae7de812c5ebab0067f078f51654975cecf1c
+Laravel#renovate/mockery-mockery-1.x#954ae7de812c5ebab0067f078f51654975cecf1c
