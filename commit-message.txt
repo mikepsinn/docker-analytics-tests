@@ -1,1 +1,1 @@
-Studies#feature/cached-studies#b57f0b36776a7414b0521927db914cf61bcbccf8
+Model#feature/catch-study-exceptions#e9bc1b40ae27d1365df36afef52b06c16b8c3dab
