@@ -1,1 +1,1 @@
-Studies#feature/catch-study-exceptions#632b55927ef3d1505043be741c3ad752e2a9443d
+Model#feature/do-not-catch-study-exceptions#5531b185e2ed4d44a16a9a37958aacdda1b7ae21
