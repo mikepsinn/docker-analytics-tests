@@ -1,1 +1,1 @@
-Laravel#feature/s3-image-client#dead4bb3f3fed4d84bdbee0f6ceed3bcf3b071ae
+Studies#feature/s3-image-client#dead4bb3f3fed4d84bdbee0f6ceed3bcf3b071ae
