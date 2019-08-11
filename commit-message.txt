@@ -1,1 +1,1 @@
-Model#feature/AccessTokenInBothQueryAndHeader#cbbf8697eaebaafffd279606d63dcac054f42879
+Connectors#feature/AccessTokenInBothQueryAndHeader#cbbf8697eaebaafffd279606d63dcac054f42879
