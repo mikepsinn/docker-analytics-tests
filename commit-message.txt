@@ -1,1 +1,1 @@
-Laravel#feature/strava#6fad9ca34e010b62afc9858b433028fecce20f8a
+Studies#feature/strava#6fad9ca34e010b62afc9858b433028fecce20f8a
