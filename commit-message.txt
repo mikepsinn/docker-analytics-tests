@@ -1,1 +1,1 @@
-Laravel#feature/deleted-connectors-task#a93cbd4c95cdfd1ab4d7a1c809c856f0f4126313
+Studies#feature/deleted-connectors-task#a93cbd4c95cdfd1ab4d7a1c809c856f0f4126313
