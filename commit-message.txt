@@ -1,1 +1,1 @@
-Connectors#feature/FitbitConnector#51ca782e1bd779a809115239997aa27f90a549d7
+Tasks#feature/FitbitConnector#51ca782e1bd779a809115239997aa27f90a549d7
