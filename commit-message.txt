@@ -1,1 +1,1 @@
-Studies#feature/validateValue#ce17fadaa8e4e1d01034d93f4d6108ba5e1598cd
+Model#feature/strava#6fad9ca34e010b62afc9858b433028fecce20f8a
