@@ -1,1 +1,1 @@
-Studies#feature/FitbitConnector#09acd902daf84cffb78c97a38dd7407863813906
+Model#feature/FitbitConnector#51ca782e1bd779a809115239997aa27f90a549d7
