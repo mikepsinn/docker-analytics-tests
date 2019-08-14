@@ -1,1 +1,1 @@
-Model#feature/connector-cleanup#0edbb4e011f0d52be0af089923048eae32968ffd
+Connectors#feature/connector-cleanup#0edbb4e011f0d52be0af089923048eae32968ffd
