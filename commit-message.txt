@@ -1,1 +1,1 @@
-Studies#feature/connector-cleanup#a70c6f88dd48a54b5ff1e4e846d00aea4bd82d4d
+Model#feature/connector-cleanup#0edbb4e011f0d52be0af089923048eae32968ffd
