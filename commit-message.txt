@@ -1,1 +1,1 @@
-Model#feature/getDbRowFromDatabase#19f15ebc0d0166aeae5a91685f871eb8b1544a30
+Connectors#feature/getDbRowFromDatabase#19f15ebc0d0166aeae5a91685f871eb8b1544a30
