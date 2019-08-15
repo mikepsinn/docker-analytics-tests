@@ -1,1 +1,1 @@
-Laravel#feature/stupid-tables#c328d7e18310bd5287efecd4bbc24274b4001d91
+Studies#feature/stupid-tables#c328d7e18310bd5287efecd4bbc24274b4001d91
