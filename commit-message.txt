@@ -1,1 +1,1 @@
-Model#feature/getStudyImages#4706e9a29e6d4d0ff8062037edb3d624dd3eaafd
+Connectors#feature/getStudyImages#4706e9a29e6d4d0ff8062037edb3d624dd3eaafd
