@@ -1,1 +1,1 @@
-Model#feature/getNotificationsFromApi#80e1c9ed3b6a4f195b97cb7ccabf71ea9820d738
+Connectors#feature/getNotificationsFromApi#80e1c9ed3b6a4f195b97cb7ccabf71ea9820d738
