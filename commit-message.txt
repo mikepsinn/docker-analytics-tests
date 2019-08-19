@@ -1,1 +1,1 @@
-Studies#feature/getMeasurementsForMultipleTaggedVariablesInCommonUnit#2012abaa1e0a95dc05df68514bc425389e09806e
+Model#feature/getStudyImages#890349970adfcd5846cf6efdc2b4c93d43202bf0
