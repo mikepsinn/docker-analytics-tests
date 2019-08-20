@@ -1,1 +1,1 @@
-Laravel#feature/addUserVariableToGlobals#4d4cdc9750b0717491ec7dc16f4deed1f7909a4a
+Studies#feature/addUserVariableToGlobals#4d4cdc9750b0717491ec7dc16f4deed1f7909a4a
