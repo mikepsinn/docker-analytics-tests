@@ -1,1 +1,1 @@
-Laravel#feature/ConnectorTestCase#796e255e5eed34ab1a293a649a46e18a41cb78bf
+Studies#feature/ConnectorTestCase#796e255e5eed34ab1a293a649a46e18a41cb78bf
