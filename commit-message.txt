@@ -1,1 +1,1 @@
-Studies#feature/setPairsOfAveragesForAllUsers#cdde8271ecb56c36527045bd90507ac29cdc3d99
+Model#feature/DeleteMeasurementController#f8960ecc3edd0e60fc8788291c542c9b82b7bf0a
