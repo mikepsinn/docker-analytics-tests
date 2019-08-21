@@ -1,1 +1,1 @@
-Model#feature/DeleteMeasurementController#94579145dc92e57ed3657249b61c02a5392000c2
+Connectors#feature/DeleteMeasurementController#94579145dc92e57ed3657249b61c02a5392000c2
