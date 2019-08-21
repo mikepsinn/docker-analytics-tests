@@ -1,1 +1,1 @@
-Tasks#renovate/barryvdh-laravel-debugbar-3.x#aff3f67abfc6d69866cdd88a485f10a33ae5d87e
+Laravel#renovate/barryvdh-laravel-debugbar-3.x#aff3f67abfc6d69866cdd88a485f10a33ae5d87e
