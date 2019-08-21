@@ -1,1 +1,1 @@
-Tasks#feature/setPairsOfAveragesForAllUsers#cdde8271ecb56c36527045bd90507ac29cdc3d99
+Laravel#feature/setPairsOfAveragesForAllUsers#cdde8271ecb56c36527045bd90507ac29cdc3d99
