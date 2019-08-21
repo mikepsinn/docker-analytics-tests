@@ -1,1 +1,1 @@
-Studies#feature/convertRowsToVariables#50c31130b8e2347dd46d4166ce0550ff8f74107e
+Model#feature/setPairsOfAveragesForAllUsers#cdde8271ecb56c36527045bd90507ac29cdc3d99
