@@ -1,1 +1,1 @@
-Model#renovate/barryvdh-laravel-debugbar-3.x#b383ac613875b236692b04eacaf86542aa0f9afc
+Connectors#renovate/barryvdh-laravel-debugbar-3.x#b383ac613875b236692b04eacaf86542aa0f9afc
