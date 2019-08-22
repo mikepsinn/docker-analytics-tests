@@ -1,1 +1,1 @@
-Studies#feature/checkPostMeasurementsResponse#ec69b3ec0a08d2611988ef9f64e841daf945050a
+Model#feature/StupidVariableNames#6d498339681f8a267a6a9b6d9f85eaaee863b1fa
