@@ -1,1 +1,1 @@
-Model#renovate/pin-dependencies#58ccad773b2e07647ed03a871ebd7908153b4688
+Connectors#renovate/pin-dependencies#58ccad773b2e07647ed03a871ebd7908153b4688
