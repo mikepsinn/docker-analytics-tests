@@ -1,1 +1,1 @@
-Model#feature/infoWithoutObfuscation#7277717b34915483c9a324a2739e816405b61bab
+Connectors#feature/infoWithoutObfuscation#7277717b34915483c9a324a2739e816405b61bab
