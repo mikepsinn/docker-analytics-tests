@@ -1,1 +1,1 @@
-Laravel#feature/Spending#cba27563d1fe07f9e143fd0b8138f03cfc64a50d
+Studies#feature/Spending#cba27563d1fe07f9e143fd0b8138f03cfc64a50d
