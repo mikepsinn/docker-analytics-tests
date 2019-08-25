@@ -1,1 +1,1 @@
-Studies#feature/study-html-cleanup#466cbe7f8cb471dcf9854d522bd04aff13132653
+Model#feature/study-html-cleanup#f9aed2e38b39bb7b965cf361db89eadba451ba52
