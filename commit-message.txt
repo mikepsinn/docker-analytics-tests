@@ -1,1 +1,1 @@
-Laravel#feature/study-html-cleanup#599f23bad11b7c5ee4d3c9c4de1e136ce3cc8496
+Studies#feature/study-html-cleanup#599f23bad11b7c5ee4d3c9c4de1e136ce3cc8496
