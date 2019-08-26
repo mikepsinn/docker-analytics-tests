@@ -1,1 +1,1 @@
-Studies#feature/exceptions#59159b2b62710900e633ecd5ee8e706a7ea20bba
+Model#feature/RuntimeException#8467b6a03cef19a7c03eab10cae35645a2adebf3
