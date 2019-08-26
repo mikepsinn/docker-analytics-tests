@@ -1,1 +1,1 @@
-Model#feature/dbFieldNameToPropertyNameMap#2f82ca3c0900b46e32c3965d01e696ffb9544ea1
+Connectors#feature/dbFieldNameToPropertyNameMap#2f82ca3c0900b46e32c3965d01e696ffb9544ea1
