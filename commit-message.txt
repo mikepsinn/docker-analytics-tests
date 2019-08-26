@@ -1,1 +1,1 @@
-Laravel#feature/getFromGlobalsByNameIdOrSynonym#6d04abbab54026185d2757bbf2d4d17cf024bdad
+Studies#feature/getFromGlobalsByNameIdOrSynonym#6d04abbab54026185d2757bbf2d4d17cf024bdad
