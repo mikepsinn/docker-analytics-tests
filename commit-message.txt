@@ -1,1 +1,1 @@
-Studies#feature/DatabaseTestCase#f37a94034ac5f06074342c2134ca0384747fd1b3
+Model#feature/StudyHtml#0e998843e2218a90dd03fbaff6edab456f581855
