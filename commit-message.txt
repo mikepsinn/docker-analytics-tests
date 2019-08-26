@@ -1,1 +1,1 @@
-Model#feature/getFromGlobalsByNameIdOrSynonym#202279067a7337e4a17eca75f79946294319c787
+Connectors#feature/getFromGlobalsByNameIdOrSynonym#202279067a7337e4a17eca75f79946294319c787
