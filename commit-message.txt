@@ -1,1 +1,1 @@
-Laravel#feature/composer#b052b1adccc72ea2c389b8a96cd399730432f7c9
+Studies#feature/composer#b052b1adccc72ea2c389b8a96cd399730432f7c9
