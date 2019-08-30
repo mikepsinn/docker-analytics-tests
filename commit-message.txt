@@ -1,1 +1,1 @@
-Studies#feature/study-test-fixtures#cd83c54967e593705bed6b7f437929b1abf83f70
+Model#feature/model-test-fixtures#c25d8e468273d7cc97bbfeababa1eeac8cd603c3
