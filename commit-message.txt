@@ -1,1 +1,1 @@
-Studies#feature/reminder-test-fixtures#1a756b518a5437173a160dde71c2c24947d5a6d1
+Model#feature/study-test-fixtures#277020ed1065433eeed2854c00690d35db549e45
