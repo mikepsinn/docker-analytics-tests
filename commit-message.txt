@@ -1,1 +1,1 @@
-Studies#feature/setUserVariablesToCorrelateWith#d65d8344dacce5335216ab8519f79a99372d9819
+Model#feature/logWhereString#ccf8e9116292f87ff1291bc756351668461bb71c
