@@ -1,1 +1,1 @@
-Laravel#feature/validProductUrl#4087b05dbf82ae226c96d315fdbe1de132800108
+Studies#feature/validProductUrl#4087b05dbf82ae226c96d315fdbe1de132800108
