@@ -1,1 +1,1 @@
-Model#renovate/monolog-monolog-1.x#182d34754980dceec0ddd4f7efe74a1db49ea0dd
+Connectors#renovate/monolog-monolog-1.x#182d34754980dceec0ddd4f7efe74a1db49ea0dd
