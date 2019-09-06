@@ -1,1 +1,1 @@
-Studies#feature/NotEnoughMeasurementsException#8a660b5afc739faf31de683bb8db09b8fb9f891a
+Model#feature/NotEnoughMeasurementsException#ce8b49c63fcce1197a90b395f4ac8786cad2b585
