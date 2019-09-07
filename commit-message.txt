@@ -1,1 +1,1 @@
-Model#feature/testHardDeleteSoftDeletedUserVariables#bcc2365d00f58297eb0371f0d343fed22567ca5e
+Connectors#feature/testHardDeleteSoftDeletedUserVariables#bcc2365d00f58297eb0371f0d343fed22567ca5e
