@@ -1,1 +1,1 @@
-Tasks#renovate/jgrossi-corcel-3.x#04145663c5aa968fe5cf3afadfbe29a63d5b0ebd
+Laravel#renovate/jgrossi-corcel-3.x#04145663c5aa968fe5cf3afadfbe29a63d5b0ebd
