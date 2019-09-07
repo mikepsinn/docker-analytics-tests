@@ -1,1 +1,1 @@
-Laravel#feature/convertToSpendingVariableName#3bbe46e0d751c7ff843eb5d0e58cbf2d01a29ee3
+Studies#feature/convertToSpendingVariableName#3bbe46e0d751c7ff843eb5d0e58cbf2d01a29ee3
