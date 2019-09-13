@@ -1,1 +1,1 @@
-Laravel#feature/getLoginNameFromArrayOrEmail#ea88e6bda2c003595342988c957075b1d864afeb
+Studies#feature/getLoginNameFromArrayOrEmail#ea88e6bda2c003595342988c957075b1d864afeb
