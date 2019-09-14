@@ -1,1 +1,1 @@
-Studies#renovate/laravel-dusk-5.x#dd6bee023025060bc2aedde21102e7e03630df68
+Model#renovate/mongodb-mongodb-1.x#2be28ac3bc5586237958e6dbcac865689e6407d2
