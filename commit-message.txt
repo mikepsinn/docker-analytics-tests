@@ -1,1 +1,1 @@
-Connectors#renovate/laravel-dusk-5.x#dd6bee023025060bc2aedde21102e7e03630df68
+Tasks#renovate/laravel-dusk-5.x#dd6bee023025060bc2aedde21102e7e03630df68
