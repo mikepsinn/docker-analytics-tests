@@ -1,1 +1,1 @@
-Laravel#feature/timezone_abbreviations_list#9bccc081c417f065ca9cdc6398e7c60494dd2035
+Studies#feature/timezone_abbreviations_list#9bccc081c417f065ca9cdc6398e7c60494dd2035
