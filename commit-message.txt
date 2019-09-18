@@ -1,1 +1,1 @@
-Connectors#feature/hardDelete#e471152ebcbf78003d60c81335f61b7ef3456cdf
+Tasks#feature/hardDelete#e471152ebcbf78003d60c81335f61b7ef3456cdf
