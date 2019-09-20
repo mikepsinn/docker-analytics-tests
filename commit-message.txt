@@ -1,1 +1,1 @@
-Laravel#feature/Total-Purchases#6fb29b83f0a661813d882f63bd371c12ade8aa5c
+Studies#feature/Total-Purchases#6fb29b83f0a661813d882f63bd371c12ade8aa5c
