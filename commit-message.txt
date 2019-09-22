@@ -1,1 +1,1 @@
-Laravel#feature/table-fixes#98cf7b8e57284866ac7babea444645e196996a56
+Studies#feature/table-fixes#98cf7b8e57284866ac7babea444645e196996a56
