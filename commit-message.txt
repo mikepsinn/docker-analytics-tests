@@ -1,1 +1,1 @@
-Model#feature/getConnectorByName#6e552a7dba9773ceb5d37f8e0b31a0322eba85d4
+Connectors#feature/getConnectorByName#6e552a7dba9773ceb5d37f8e0b31a0322eba85d4
