@@ -1,1 +1,1 @@
-Studies#feature/hardDeleteWithRelations#e87a0c19779553754867f16f99a90ba5294a1725
+Connectors3#feature/hardDeleteWithRelations#4f0fe8b569f4fb7f04346ef720f33afbb8a66509
