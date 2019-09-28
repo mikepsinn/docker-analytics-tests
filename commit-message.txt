@@ -1,1 +1,1 @@
-Tasks#feature/to-class-name#23875f903d314705a4c2225270cf6772db4afa8b
+Laravel#feature/to-class-name#23875f903d314705a4c2225270cf6772db4afa8b
