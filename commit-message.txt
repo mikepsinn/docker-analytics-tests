@@ -1,1 +1,1 @@
-Studies#feature/bar-chart#5a93fdbc9a2733eefa69221740bfc5466e0be140
+Connectors3#feature/GoogleTasksConnector#35d097bd99df6428b54978e73b94b26fb8c97b21
