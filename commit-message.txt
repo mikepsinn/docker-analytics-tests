@@ -1,1 +1,1 @@
-Laravel#feature/hasValidImagesOnS3-2#a46ad4fafcba38d6f5db6d422d91e743879e1797
+Studies#feature/hasValidImagesOnS3-2#a46ad4fafcba38d6f5db6d422d91e743879e1797
