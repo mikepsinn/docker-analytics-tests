@@ -1,1 +1,1 @@
-Laravel#renovate/docker-php-7.x#bf3fc9d7ccc06fcfec41b9f69cc5e667de01269c
+Studies#renovate/docker-php-7.x#bf3fc9d7ccc06fcfec41b9f69cc5e667de01269c
