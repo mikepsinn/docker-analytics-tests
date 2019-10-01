@@ -1,1 +1,1 @@
-Connectors3#feature/getLatestTaggedMeasurementAt#ff7cc9e45fbc36f238665fef93dbc0a95be58376
+Model#feature/getLatestTaggedMeasurementAt#ff7cc9e45fbc36f238665fef93dbc0a95be58376
