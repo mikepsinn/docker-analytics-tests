@@ -1,1 +1,1 @@
-Laravel#feature/addSeries#8e14bfdc8071e54627a9acf0899720a50b37c8fa
+Studies#feature/addSeries#8e14bfdc8071e54627a9acf0899720a50b37c8fa
