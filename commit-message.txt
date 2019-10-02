@@ -1,1 +1,1 @@
-Tasks#feature/getNamePlural#258fb43377e842948966a0cf1442b23b268524ec
+Laravel#feature/getNamePlural#258fb43377e842948966a0cf1442b23b268524ec
