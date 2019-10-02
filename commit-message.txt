@@ -1,1 +1,1 @@
-Laravel#renovate/ghost-inspector-4.x#9c5c29049af3831213c265fdf68a5554cde7273f
+Studies#renovate/ghost-inspector-4.x#9c5c29049af3831213c265fdf68a5554cde7273f
