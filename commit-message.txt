@@ -1,1 +1,1 @@
-Studies#feature/QMColor#83e6bcd0ba994b028f3e50dc3876cde783cd1ea2
+Connectors3#feature/QMColor#89d7e527b04f97c5c7611f4b9619b17a8a6165f0
