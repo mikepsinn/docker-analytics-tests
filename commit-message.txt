@@ -1,1 +1,1 @@
-Tasks#feature/getAbbreviatedListForEmail#6142251b22d85af139775f2a5344e111db9d0914
+Laravel#feature/getAbbreviatedListForEmail#6142251b22d85af139775f2a5344e111db9d0914
