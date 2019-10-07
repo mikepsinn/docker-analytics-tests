@@ -1,1 +1,1 @@
-Studies#feature/MaxMinAllowedValues#55fd5f7e829ddc61efccddc7b26e84ab0da066e2
+Connectors3#feature/MaxMinAllowedValues#937295e539ea3138c0c7ef578c1cd6ed2af16bb0
