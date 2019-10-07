@@ -1,1 +1,1 @@
-Laravel#feature/MaxMinAllowedValues#e7cdc5ca2c6a5a34190f1576cae0e46de1d44aae
+Studies#feature/MaxMinAllowedValues#e7cdc5ca2c6a5a34190f1576cae0e46de1d44aae
