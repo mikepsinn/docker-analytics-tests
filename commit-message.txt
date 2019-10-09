@@ -1,1 +1,1 @@
-Studies#feature/getModifiedTimeOfImageOnS3#5e48162e8d4d041fbb83bb7b8456ee310219e711
+Connectors3#feature/getOrSetPrimaryOutcomeVariableNameFromGlobals#13b407aefa81976e69aa99b76255956e5a48ea50
