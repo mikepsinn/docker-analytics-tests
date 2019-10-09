@@ -1,1 +1,1 @@
-Laravel#feature/instantiateAllModelsInFolder#eaa26e06d9b45fd2ab9e2b7778db730e52868c18
+Studies#feature/instantiateAllModelsInFolder#eaa26e06d9b45fd2ab9e2b7778db730e52868c18
