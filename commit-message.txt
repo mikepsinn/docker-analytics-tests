@@ -1,1 +1,1 @@
-Studies#renovate/snowfire-beautymail-1.x#1a89d4fb32ce2454227920e7ecc51e7d2000201b
+Connectors3#feature/card-classes#a58ee7edefac4503e3b317135c5137a29defae4e
