@@ -1,1 +1,1 @@
-Connectors3#feature/card-classes#1bc369f396fc16f9a5a12a63d0b91488c898f612
+Model#feature/card-classes#1bc369f396fc16f9a5a12a63d0b91488c898f612
