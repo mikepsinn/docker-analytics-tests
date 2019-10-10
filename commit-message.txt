@@ -1,1 +1,1 @@
-Studies#renovate/snowfire-beautymail-1.x#200334485217d4a54b018330ec0bc7fca188a834
+Connectors3#feature/generateAndUploadToS3IfNecessary#2be00d9b083fd2cf29bdb5bd9e2db75236f0aa2c
