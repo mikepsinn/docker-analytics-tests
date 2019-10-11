@@ -1,1 +1,1 @@
-Studies#feature/sendAllErrorsAndExceptionsToBugsnag#c42ce278865638f8b61d740d1323da80ea8f904d
+Connectors3#feature/sendAllErrorsAndExceptionsToBugsnag#2f6eeacdf30cd726cd90820b67c8530523101b23
