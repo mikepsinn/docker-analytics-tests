@@ -1,1 +1,1 @@
-Connectors3#feature/StudyText#bd982eebd0743333057f01d3a849340c67d35908
+Model#feature/StudyText#bd982eebd0743333057f01d3a849340c67d35908
