@@ -1,1 +1,1 @@
-Studies#feature/dateGrouping#ddc0b0b32820d5af789fb3a78ef0deccd0d18193
+Connectors3#renovate/krlove-eloquent-model-generator-1.x#f85b309c7e87c4db66504f5da8a7102b8bf39c0a
