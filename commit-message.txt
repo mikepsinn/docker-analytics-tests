@@ -1,1 +1,1 @@
-Tasks#renovate/pin-dependencies#e709ae13752377421b5707a40b272b942da8c429
+Laravel#renovate/pin-dependencies#e709ae13752377421b5707a40b272b942da8c429
