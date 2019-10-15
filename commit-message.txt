@@ -1,1 +1,1 @@
-Laravel#renovate/docker-traefik-1.x#aa292faec935d629c7f9b36115cda6f88efee1ca
+Studies#renovate/docker-traefik-1.x#aa292faec935d629c7f9b36115cda6f88efee1ca
