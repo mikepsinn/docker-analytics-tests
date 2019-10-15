@@ -1,1 +1,1 @@
-Connectors3#feature/strava#0cd028bf85636006dc21105ef617c7bfd1505a50
+Model#feature/strava#0cd028bf85636006dc21105ef617c7bfd1505a50
