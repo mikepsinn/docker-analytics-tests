@@ -1,1 +1,1 @@
-Laravel#feature/redundant-queries#2e80c5cf59fd2fc19ccc6cc8dc99e464235b8ea4
+Studies#feature/redundant-queries#2e80c5cf59fd2fc19ccc6cc8dc99e464235b8ea4
