@@ -1,1 +1,1 @@
-Laravel#renovate/pin-dependencies#d27ee52bed1d90d9ad28bd9ee62e591ec5e5c94c
+Studies#renovate/pin-dependencies#d27ee52bed1d90d9ad28bd9ee62e591ec5e5c94c
