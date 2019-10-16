@@ -1,1 +1,1 @@
-Laravel#feature/CaloriesBurnedCommonVariable#0dec969216963fffc4803fb81c409206b634605f
+Studies#feature/CaloriesBurnedCommonVariable#0dec969216963fffc4803fb81c409206b634605f
