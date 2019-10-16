@@ -1,1 +1,1 @@
-Studies#feature/CaloriesBurnedCommonVariable#0dec969216963fffc4803fb81c409206b634605f
+Connectors3#feature/InsufficientMemoryException#13b5e1d1aeab716d351546adbce58c5c95fdbade
