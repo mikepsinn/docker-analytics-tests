@@ -1,1 +1,1 @@
-Studies#feature/getS3BucketAndFolderPath#c42f0b548e33d2df16ae7397957b985abe131533
+Connectors3#feature/getS3BucketAndFolderPath#9013ef46fef14f702fd2eb34deb6199821846c1f
