@@ -1,1 +1,1 @@
-Laravel#feature/getS3BucketAndFolderPath#9013ef46fef14f702fd2eb34deb6199821846c1f
+Studies#feature/getS3BucketAndFolderPath#9013ef46fef14f702fd2eb34deb6199821846c1f
