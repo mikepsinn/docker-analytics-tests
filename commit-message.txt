@@ -1,1 +1,1 @@
-Studies#feature/HighchartExport#1745c14dd5dafcae50db4455f22edb1ecb4158fe
+Connectors3#feature/HighchartExport#c8c48709f28da821bde76721efdce5535420bb51
