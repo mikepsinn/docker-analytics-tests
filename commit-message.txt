@@ -1,1 +1,1 @@
-Model#feature/setImageUrlsAndGenerateIfNecessary#7e509efbae66f6af88826a2d71a5289b3dc051eb
+Tasks#feature/setImageUrlsAndGenerateIfNecessary#7e509efbae66f6af88826a2d71a5289b3dc051eb
