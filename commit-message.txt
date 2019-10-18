@@ -1,1 +1,1 @@
-Studies#feature/combine-measurements#86940ff17adc4dec04eaedf9a797d5b104cb28ba
+Connectors3#feature/combine-measurements#5373d67ee94b9d487385fa7f15d11ecc9a046423
