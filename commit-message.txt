@@ -1,1 +1,1 @@
-Studies#feature/combine-measurements#63630ed64192aaa9affab79cefe97dbaec3b28fc
+Connectors3#feature/generateChildModelCode#26f078e0628d9cd31dc547cc1f7b04a4054d88fe
