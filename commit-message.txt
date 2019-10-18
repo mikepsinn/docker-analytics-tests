@@ -1,1 +1,1 @@
-Laravel#feature/WalkOrRunDistanceCommonVariable#1f8161c8a15fe776ddc374ce374cbaf7b60fbbc7
+Studies#feature/WalkOrRunDistanceCommonVariable#1f8161c8a15fe776ddc374ce374cbaf7b60fbbc7
