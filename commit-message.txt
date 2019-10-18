@@ -1,1 +1,1 @@
-Studies#feature/WalkOrRunDistanceCommonVariable#0ed18322ca4bf09ab62a46c240073b4a4c7b05dd
+Connectors3#feature/combine-measurements#63630ed64192aaa9affab79cefe97dbaec3b28fc
