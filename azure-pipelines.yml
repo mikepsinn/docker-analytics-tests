@@ -132,7 +132,7 @@ steps:
   displayName: 'Running Browser Tests'
 
 # Publish Test Results to Azure Pipelines/TFS
-- task: PublishTestResults@2
+- task: PublishTestResults@2.210.0
   inputs:
     testRunner: 'JUnit' # Options: JUnit, NUnit, VSTest, xUnit
     testResultsFiles: '**/TEST-*.xml'
