@@ -2,7 +2,7 @@
   "name": "quantimodo/api",
   "license": "Private",
   "require": {
-    "php": "~7.2",
+    "php": "~8.0",
     "ext-bcmath": "*",
     "ext-memcached": "*",
     "ext-mongodb": "^1.1.0"
